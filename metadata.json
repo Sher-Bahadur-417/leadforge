@@ -1,0 +1,6 @@
+{
+  "name": "AI Lead Finder & Qualification System",
+  "description": "Enterprise-grade real-time lead discovery, qualification, and validation engine designed to feed n8n cold-email, reply-handling, and meeting-booking automations with real verified data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
